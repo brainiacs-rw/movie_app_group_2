@@ -25,7 +25,7 @@
   "description": "backend for aquarens",
   "main": "server.js",
   "scripts": {
-    "start": "node api.js && nodemon index.js"
+    "start": "node init && nodemon index.js"
   },
   "author": "brainiacs",
   "license": "MIT"
